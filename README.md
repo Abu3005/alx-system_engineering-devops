@@ -1,1 +1,1 @@
-current working directory
+script that switches the current user to the user betty
