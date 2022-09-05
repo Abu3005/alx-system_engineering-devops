@@ -1,1 +1,1 @@
-script that counts the number of directories and sub-directories in the current directory,The current and parent directories should not be taken into account and Hidden directories should be counted
+script that displays the 10 newest files in the current directory, One file per line and Sorted from the newest to the oldest
