@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# Script to automate installation of nginx on a server
+# Write a specific string at the root
+sudo apt-get update
+sudo apt-get -y install nginx
+echo "Holberton School for the win!" | sudo tee /usr/share/nginx/html/index.html >/dev/null
+sudo service nginx start
